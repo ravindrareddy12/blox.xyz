@@ -20,7 +20,7 @@ app.post('/transfer', (req, res) => {
 function performMoneyTransfer(amount, senderAccount, receiverAccount) {
   // Simplified implementation for demo purposes.
   // In a real system, this would involve communication with external banking systems.
-  // Assume the transfer is successful for demonstration.
+  // Assume the transfer is successful for demonstration.   
   return true;
 }
 
